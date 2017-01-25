@@ -3,6 +3,10 @@
 OpenStack Salt
 ==============
 
+.. image:: https://readthedocs.org/projects/openstack-salt/badge/?version=latest
+    :target: http://openstack-salt.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
+
 OpenStack-Salt is project which aims to deploy production environments from source in a way that makes it scalable while also being simple to operate and upgrade.
 
 For an overview of the mission, repositories and related Wiki home page, please see the formal `Home Page`_ for the project.
